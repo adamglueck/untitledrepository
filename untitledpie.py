@@ -1,2 +1,16 @@
-c="hi "
-print(200000*c)
+print("ax^2+bx+c=0")
+a=input("a?")
+a=float(a)
+b=input("b?")
+b=float(b)
+c=input("c?")
+c=float(c)
+d=(b*b)-(4*a*c)
+d=float(d)
+(d**.5)=d
+print((-b+d/(2*a)))
+e=float(e)
+(-b-(d**(1/2)))/(2*a)=f
+f=float(f)
+print(e)
+print(f)
